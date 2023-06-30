@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React , Dsa , DBMS**
 
-- 👨‍💻 All of my projects are available at [[https://syedtariqu.github.io/MyPortfolio/](https://Syedtariqu.github.io/myportfolio-site)]
+- 👨‍💻 All of my projects are available at https://Syedtariqu.github.io/myportfolio-site
 
 - 📫 How to reach me **syedtarique20@gmail.com**
 - ⚡ Fun fact **I don't even exist :)**
