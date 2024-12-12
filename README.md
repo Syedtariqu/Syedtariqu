@@ -16,9 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ayanexist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayanexist" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/syed-tarique-abedin" target="_blank">
+<a href="https://www.linkedin.com/in/syed-tarique-abedin/" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="syed-tarique-abedin" height="30" width="40" />
 </a>
+
 
 </p>
 
