@@ -75,9 +75,11 @@
 
 Here are some of my notable projects:
 
-- **[Project 1](#)**: Brief description of the project.
-- **[Project 2](#)**: Brief description of the project.
-- **[Project 3](#)**: Brief description of the project.
+- **[Memory Creator Website](https://memorycreator-app.netlify.app/)**: A full-stack MERN application that allows users to create, update, delete, and search memories. Features include JWT-based authentication, CRUD operations, commenting, liking, and filtering functionalities, built with React Redux for state management and tested with Postman.
+
+- **[Delicious Food Website](https://delicious-mern-app.netlify.app/)**: A responsive food reservation site with a React.js front end and Node.js backend. It integrates the Spoonacular API for additional functionalities, along with search and filter features using React Hooks.
+
+- **[Multimart Website](https://multimart-website.netlify.app/)**: A multi-market e-commerce platform built with React.js, Redux Toolkit, and CSS3. It features login/signup authentication, search, filter, and add-to-cart functionalities, enhancing the user experience.
 
 ---
 
