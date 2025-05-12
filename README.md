@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, Data Structures and Algorithms (DSA), and Backend Development**
 
-- 👨‍💻 All of my projects are available on [My Portfolio]((https://syedportfolio-iota.vercel.app/))
+- 👨‍💻 All of my projects are available on [My Portfolio](https://syedportfolio-iota.vercel.app/)
 
 - 📫 Reach me at **syedtarique20@gmail.com**
 
