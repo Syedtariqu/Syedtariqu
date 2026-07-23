@@ -84,25 +84,7 @@
 - Git
 - AWS (Learning)
 
----
 
-# 📌 Featured Projects
-
-### 🚗 Parking Lot System (LLD)
-
-Designed a complete Parking Lot System using SOLID Principles, Design Patterns (Strategy, Factory, Singleton), and Object-Oriented Design concepts.
-
-**Tech:** Java, Design Patterns, UML
-
----
-
-### 🛗 Elevator System (LLD)
-
-Designed a scalable Elevator System implementing scheduling algorithms, Strategy Pattern, Min Heap, Max Heap, Queue, and Controller-based architecture.
-
-**Tech:** Java, OOP, LLD
-
----
 
 ### ⚡ Smart Metering (HES) Backend
 
