@@ -1,95 +1,193 @@
 <h1 align="center">Hi 👋, I'm Syed Tarique Abedin</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
+<h3 align="center">Software Engineer | Java Backend Developer | Spring Boot & Microservices Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-### About Me
-
-- 🔭 I’m currently working at **Comminent**
-
-- 🌱 I’m currently learning **React Native, Data Structures and Algorithms (DSA), and Backend Development**
-
-- 👨‍💻  [My Portfolio](https://syedportfolio-iota.vercel.app/)
-
-- 📫 Reach me at **syedtarique20@gmail.com**
-
-- ⚡ Fun fact: **I don't even exist! :)**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ---
 
-### Connect With Me
+## 👨‍💻 About Me
+
+- 💼 Software Engineer at **Comminent**
+- 🌱 Currently learning **System Design, Low-Level Design (LLD), Distributed Systems**
+- 🚀 Working on **Java, Spring Boot, Microservices, Kafka, Redis, MQTT, PostgreSQL & Docker**
+- 💡 Interested in **Backend Engineering, High-Performance Systems & Scalable Architectures**
+- 👨‍💻 Portfolio: **https://syedportfolio-iota.vercel.app/**
+- 📫 Email: **syedtarique20@gmail.com**
+- ⚡ Fun fact: **I enjoy debugging more than writing the first line of code. 😄**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/ayanexist" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayanexist" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/syed-tarique-abedin/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="syed-tarique-abedin" height="30" width="40" />
-  </a>
+<a href="https://www.linkedin.com/in/syed-tarique-abedin/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/ayanexist" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
+
 </p>
 
 ---
 
-### Languages and Tools
+# 💻 Tech Stack
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-</p>
-
----
-
-### GitHub Stats
+### Languages
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedtariqu&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=java,cpp,javascript,sql" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=syedtariqu&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+### Backend
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedtariqu" alt="GitHub Streak" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode,idea,aws" />
 </p>
 
 ---
 
-### Projects
+# 🚀 Currently Working With
 
-Here are some of my notable projects:
-
-- **[Memory Creator Website](https://memorycreator-app.netlify.app/)**: A full-stack MERN application that allows users to create, update, delete, and search memories. Features include JWT-based authentication, CRUD operations, commenting, liking, and filtering functionalities, built with React Redux for state management and tested with Postman.
-
-- **[Delicious Food Website](https://delicious-mern-app.netlify.app/)**: A responsive food reservation site with a React.js front end and Node.js backend. It integrates the Spoonacular API for additional functionalities, along with search and filter features using React Hooks.
-
-- **[Multimart Website](https://multimart-website.netlify.app/)**: A multi-market e-commerce platform built with React.js, Redux Toolkit, and CSS3. It features login/signup authentication, search, filter, and add-to-cart functionalities, enhancing the user experience.
+- Java 21
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- Microservices
+- Apache Kafka
+- Redis
+- MQTT
+- Protocol Buffers (Protobuf)
+- PostgreSQL
+- Docker
+- REST APIs
+- Maven
+- Git
+- AWS (Learning)
 
 ---
 
-### Hobbies & Interests
+# 📌 Featured Projects
 
-- 💡 Exploring new technologies
-- 🎮 Gaming
-- ✍️ Blogging about tech
-- 📚 Reading about innovations in software development
+### 🚗 Parking Lot System (LLD)
+
+Designed a complete Parking Lot System using SOLID Principles, Design Patterns (Strategy, Factory, Singleton), and Object-Oriented Design concepts.
+
+**Tech:** Java, Design Patterns, UML
 
 ---
 
+### 🛗 Elevator System (LLD)
 
+Designed a scalable Elevator System implementing scheduling algorithms, Strategy Pattern, Min Heap, Max Heap, Queue, and Controller-based architecture.
+
+**Tech:** Java, OOP, LLD
+
+---
+
+### ⚡ Smart Metering (HES) Backend
+
+Working on enterprise-scale backend services involving
+
+- Spring Boot Microservices
+- Kafka Event Streaming
+- Redis
+- MQTT Communication
+- Protocol Buffers
+- PostgreSQL
+- Docker
+- REST APIs
+
+---
+
+### 📝 Memory Creator (MERN)
+
+A full-stack MERN application with JWT Authentication, CRUD operations, comments, likes, image uploads, and Redux state management.
+
+---
+
+### 🍔 Delicious Food Website
+
+Responsive MERN application integrating Spoonacular API with authentication, search, and filtering.
+
+---
+
+### 🛒 Multimart
+
+E-commerce application built using React, Redux Toolkit, Node.js, Express.js, and MongoDB.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=syedtariqu&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedtariqu&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedtariqu&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedtariqu&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Currently Learning
+
+- System Design
+- Low-Level Design (LLD)
+- Distributed Systems
+- Kubernetes
+- AWS
+- CI/CD
+- Design Patterns
+- Performance Optimization
+
+---
+
+# 📚 Interests
+
+- 🚀 Backend Development
+- ☁️ Cloud Computing
+- ⚙️ System Design
+- 📡 Distributed Systems
+- 📈 Performance Engineering
+- 🧩 Problem Solving
+- 📖 Reading Tech Blogs
+
+---
+
+> *"First, solve the problem. Then, write the code."* – John Johnson
