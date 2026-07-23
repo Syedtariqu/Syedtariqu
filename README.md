@@ -101,23 +101,6 @@ Working on enterprise-scale backend services involving
 
 ---
 
-### 📝 Memory Creator (MERN)
-
-A full-stack MERN application with JWT Authentication, CRUD operations, comments, likes, image uploads, and Redux state management.
-
----
-
-### 🍔 Delicious Food Website
-
-Responsive MERN application integrating Spoonacular API with authentication, search, and filtering.
-
----
-
-### 🛒 Multimart
-
-E-commerce application built using React, Redux Toolkit, Node.js, Express.js, and MongoDB.
-
----
 
 # 📊 GitHub Stats
 
